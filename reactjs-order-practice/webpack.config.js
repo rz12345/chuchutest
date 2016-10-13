@@ -12,7 +12,7 @@ module.exports = {
         './src/index.jsx',
     ],
     output: {
-        path: `${__dirname}`,
+        path: `${__dirname}/docs`,
         filename: 'index_bundle.js',
     },
     module: {
